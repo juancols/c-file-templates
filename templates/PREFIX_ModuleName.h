@@ -10,8 +10,8 @@
  *              Some license text here.
  *
  **********************************************************************************************************************/
-#ifndef ___PREFIX_MODULENAME_H
-#define ___PREFIX_MODULENAME_H
+#ifndef __PREFIX_MODULENAME_H
+#define __PREFIX_MODULENAME_H
 /*************************************************** SYSTEM INCLUDES **************************************************/
 #include "headerFile1.h"
 #include "headerFile2.h"
@@ -59,6 +59,6 @@ typedef struct
 uint8_t MODNAM_publicFunctionName( uint32_t paramIn,
                                    uint8_t * pParamOut );
 
-#endif /*___PREFIX_MODULENAME_H*/
+#endif /*__PREFIX_MODULENAME_H*/
 /** @} */
 /**************************************************** END OF FILE *****************************************************/

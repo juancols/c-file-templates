@@ -10,8 +10,8 @@
  *              Some license text here.
  *
  **********************************************************************************************************************/
-#ifndef ___PREFIX_MODULENAME_PRIV_H
-#define ___PREFIX_MODULENAME_PRIV_H
+#ifndef __PREFIX_MODULENAME_PRIV_H
+#define __PREFIX_MODULENAME_PRIV_H
 /*************************************************** SYSTEM INCLUDES **************************************************/
 #include "headerFile1.h"
 #include "headerFile2.h"
@@ -55,6 +55,6 @@ typedef struct
     uint16_t varName2;
 } MODNAM_PRIVATE_TYPENAME2_t;
 
-#endif /*___PREFIX_MODULENAME_PRIV_H*/
+#endif /*__PREFIX_MODULENAME_PRIV_H*/
 /** @} */
 /**************************************************** END OF FILE *****************************************************/
