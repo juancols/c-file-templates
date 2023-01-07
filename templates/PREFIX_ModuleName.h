@@ -56,9 +56,8 @@ typedef struct
 } MODNAM_PUBLIC_TYPENAME2_t;
 
 /*************************************** FUNCTION PROTOTYPES (PUBLIC INTERFACE) ***************************************/
-uint32_t MODNAM_publicFunctionOneName( uint8_t param1,
-                                       uint8_t param2 );
-void MODNAM_publicFunctionTwoName( void );
+uint8_t MODNAM_publicFunctionName( uint32_t paramIn,
+                                   uint8_t * pParamOut );
 
 #endif /*___PREFIX_MODULENAME_H*/
 /** @} */
