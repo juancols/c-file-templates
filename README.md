@@ -8,7 +8,7 @@ Welcome to the C File Templates repository! Here you will find templates for bot
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `PREFIX_ModuleName.c`      | Implementation file for _ModuleName_. Never add `typedef` or `#define` macros in this file. Use the `PREFIX_ModuleName_Priv.h` for that instead. |
 | `PREFIX_ModuleName.h`      | Public interface. It includes all the _ModuleName_ public declarations.                                                                          |
-| `PREFIX_ModuleName_Priv.h` | Private interface. It includes all the _ModuleName_ private declarations (e.g. configuration macros).                                            |
+| `PREFIX_ModuleName_Priv.h` | Private header. It includes all the _ModuleName_ private declarations (e.g. configuration macros).                                               |
 
 ## Naming Conventions & Coding Style
 
