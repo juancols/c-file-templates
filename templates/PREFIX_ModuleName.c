@@ -11,10 +11,6 @@
  *
  **********************************************************************************************************************/
 
-/*************************************************** SYSTEM INCLUDES **************************************************/
-#include "SYS_ModuleName1.h"
-#include "SYS_ModuleName2.h"
-
 /*************************************************** PROJECT INCLUDES *************************************************/
 
 /**
@@ -25,9 +21,13 @@
 #include "PREFIX_ModuleName.h"
 #include "PREFIX_ModuleName_Priv.h"
 
-/*************************************************** DRIVER INCLUDES **************************************************/
-#include "DRV_ModuleName1.h"
-#include "DRV_ModuleName1.h"
+/*************************************************** PRIVATE INCLUDES *************************************************/
+
+/**
+ * @note
+ * - Add here the headers used only by the private functions of the module.
+ * - The declarations needed by the public functions should be all included in "PREFIX_ModuleName.h" */
+#include "HeaderName.h"
 
 /***************************************************** LOCAL DATA *****************************************************/
 
