@@ -33,9 +33,13 @@
 
 /*************************************************** LOCAL VARIABLES **************************************************/
 /** @brief Add local variable description */
-static uint32.t lVariableName = 0;
+static uint32_t lVariableName = 0;
 /** @brief Add local pointer variable description */
-static uint32.t * lpVariableName = NULL;
+static uint32_t * lpVariableName = NULL;
+
+/************************************************** EXTERNAL VARIABLES ************************************************/
+/** @brief Add external variable description */
+extern uint8_t ExternalVariable;
 
 /******************************************** PRIVATE FUNCTION PROTOTYPES *********************************************/
 static void MODNAM_privateFunctionName( void );
