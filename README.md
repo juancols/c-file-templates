@@ -1,6 +1,6 @@
 # C File Templates
 
-Welcome to the C File Templates repository! Here you will find templates for both `.c` and `.h` files that you can use as a starting point for your embedded C projects. The templates are designed to provide standard structure and propose a naming convention, helping you to write clean and organized code.
+Welcome to the C File Templates repository! Here you will find templates for both `.c` and `.h` files that you can use as a starting point for your embedded C projects. The templates are designed to provide standard structure and a naming conventions, helping you to write clean and organized code.
 
 ## Type of Files
 
